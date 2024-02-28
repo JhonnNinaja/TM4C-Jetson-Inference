@@ -66,3 +66,8 @@ MAP_PWMPulseWidthSet(PWM_OUT_7, y);
 ```
 
 Overall, the Python code provides high-level control while the C code handles lower-level motor actuation and feedback control. The UART serial communication links the two parts together.
+
+## Important Files
+
+"robot.py"
+"uart_com_V1.c"
